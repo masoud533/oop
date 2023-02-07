@@ -1,6 +1,5 @@
 # decorator
 
-
 class User:
   activeUsers = 0
 
