@@ -11,7 +11,7 @@ class User:
 
 me = User('masoud', 'mapar', 18)
 
-print(me.name)
-print(me.family)
-print(me.age)
+# print(me.name)
+# print(me.family)
+# print(me.age)
 print(me)
